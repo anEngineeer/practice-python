@@ -1,2 +1,2 @@
 # practice-python
-practicing python starting form functions(basics separate)
+practicing python starting from functions(basics separate)
